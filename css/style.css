@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: azure;
+    align-content: center;
+}
+
+button{
+    background-color: crimson;
+    color: aqua;
+    width: 100px;
+    height: 100px;
+    align-items: center;
+    border-radius: 50px;
+}
